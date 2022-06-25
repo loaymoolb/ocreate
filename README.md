@@ -1,5 +1,4 @@
-# Ocreate  
-It is a modern and bright landing page for a creative studio
+# Ocreate – modern and bright landing page for a creative studio
 
 ## Link: [Ocreate](https://loaymoolb.github.io/ocreate)
 
